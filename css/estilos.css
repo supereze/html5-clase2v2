@@ -1,0 +1,10 @@
+body{
+	background-color: #6a48d7;
+}
+header{
+	color: #93AEEA;
+}
+section{
+	background-image: url(../imagenes/fondo_granulado.jpg);
+	background-size: cover;
+}
