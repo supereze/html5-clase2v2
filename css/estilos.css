@@ -1,11 +1,27 @@
 /*haciendo una prueba mas*/
 body{
 	background-color: #6a48d7;
+	margin: 20px;
+	
 }
-header{
+h1{
 	color: #93AEEA;
 }
 section{
-	background-image: url(../imagenes/fondo_granulado.jpg);
+	background-image: url("../imagenes/fondo_granulado.jpg");
 	background-size: cover;
+	padding: 30px;
+	margin-top: 0px;
+}
+.texto{
+	background-color: #AF679F;
+	color: #ECF6CB;
+	margin: 20px;
+	padding: 30px;
+	width: 600px;
+	text-align:justify;
+}
+#pfooter{
+	background-color: #93AEEA;
+	color: #4F679F;
 }
